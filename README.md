@@ -1,0 +1,1 @@
+# Earthquake-Magnitude-Prediction-using-ML-and-DL-models
